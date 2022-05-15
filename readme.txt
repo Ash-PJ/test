@@ -1,1 +1,1 @@
-asdf
+This code is for the much more scaled down version of our project simply carried out with a few ultrasonic sensors. Here we simply detect the distance of 3 different points in the near surrounding and correspondingly supply this data to run just 3 motors in real-time. But for the actual hackathon we plan to use the kinect and using depth image data captured we plan to run 15 haptic vibrating motors and provide real-time tactile feedback to the user.
